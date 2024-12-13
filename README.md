@@ -34,12 +34,6 @@ This project focuses on analyzing healthcare costs and insurance data using adva
    - Tested hypotheses on cost differences by hospital and city types.
    - Assessed independence of smoking and heart-related issues.
 
-## Example Insights
-- Median hospitalization costs vary significantly across hospital tiers and city levels.
-- Smoking and certain health conditions have a measurable impact on costs.
-- Predictive models achieved robust performance, aiding in cost estimation for new patients.
-
-
 ## Future Enhancements
 - Incorporate more granular claims data for deeper analysis.
 - Integrate advanced machine learning techniques like deep learning models.
